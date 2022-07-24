@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/tom/workspace/tom/Training/Tom/EntryPoint.scala:1:8: not found: object scalaj[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalaj.http._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/tom/workspace/tom/Training/Tom/EntryPoint.scala:5:17: not found: type HttpResponse[0m
+[0m[[0m[31merror[0m] [0m[0m  val response: HttpResponse[String] =[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/tom/workspace/tom/Training/Tom/EntryPoint.scala:6:5: not found: value Http[0m
+[0m[[0m[31merror[0m] [0m[0m    Http("http://feeds.bbci.co.uk/news/rss.xml").asString[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

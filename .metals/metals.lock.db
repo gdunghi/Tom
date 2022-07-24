@@ -1,0 +1,6 @@
+#FileLock
+#Sun Jul 24 13:57:27 ICT 2022
+hostName=localhost
+id=1822eff1e737ad1510d4f7f930bd80ebc591918f87b
+method=file
+server=localhost\:42903
